@@ -1,7 +1,7 @@
 {
   "name": "google-suggest-tr",
   "description": "Utility to provide Google suggestions. Optimized for Turkish.",
-  "version": "0.0.3.1",
+  "version": "0.0.4",
   "keywords": [
     "google",
     "suggest",
