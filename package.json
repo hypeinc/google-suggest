@@ -27,5 +27,13 @@
   "dependencies": {
     "request": "2.9.202",
     "iconv-lite": "~0.2.11"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/hypeinc/google-suggest/issues"
+  },
+  "homepage": "https://github.com/hypeinc/google-suggest",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
 }
