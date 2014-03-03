@@ -1,7 +1,7 @@
 {
-  "name": "google-suggest",
-  "description": "Utility to provide Google suggestions.",
-  "version": "0.0.3",
+  "name": "google-suggest-tr",
+  "description": "Utility to provide Google suggestions. Optimized for Turkish.",
+  "version": "0.0.3.1",
   "keywords": [
     "google",
     "suggest",
@@ -10,7 +10,7 @@
   "author": "Colin Ross <colin@colinscape.com> (http://colinscape.com)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/colinscape/google-suggest.git"
+    "url": "git://github.com/hypeinc/google-suggest.git"
   },
   "directories": {
     "lib": "./lib"
@@ -25,6 +25,7 @@
     "node": "*"
   },
   "dependencies": {
-    "request": "2.9.202"
+    "request": "2.9.202",
+    "iconv-lite": "~0.2.11"
   }
 }
